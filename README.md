@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 🕊️
+## boas vindas ao meu perfil 🕊☑️
 
 meu nome e davi inacio
 
@@ -6,10 +6,10 @@ meu nome e davi inacio
 - Estou  Me Desenvolvendo na  linguaguem javaScript
 -Utilizo esse  espaço para mnha organizaçao e compartilhamento dos Meu projetos desenvolvidos 
 
-### Você entrar em contato comigo 🎦
+### Você entrar em contato comigo 🗂️
 
 bastos.davi@escola.pr.gov.br
+
 @davi.wff
 
-
-  
+!.[].https://media.tenor.com/8aR2e6H7yQgAAAAd/asas.gif
