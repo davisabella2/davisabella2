@@ -12,4 +12,4 @@ bastos.davi@escola.pr.gov.br
 
 @davi.wff
 
-!.[].https://media.tenor.com/8aR2e6H7yQgAAAAd/asas.gif
+https://media.tenor.com/8aR2e6H7yQgAAAAd/asas.gif
